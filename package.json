@@ -2,7 +2,7 @@
   "private": true,
   "name": "shmahma",
   "version": "0.1.0",
-  "homepage": "https://shmahma.github.io",
+  "homepage": "https://souhmahma.github.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
