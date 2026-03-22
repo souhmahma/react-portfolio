@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Python Developer passionate about modern web applications and artificial intelligence. I design robust and scalable solutions combining performance, clean code, and intelligent data processing.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view",
+    "https://drive.google.com/file/d/16wia-t7stoPE43VKSCXKZz5i_ayrXAdM/view?usp=sharing",
   portfolio_repository: "https://github.com/shmahma/portfolio",
   githubProfile: "https://github.com/shmahma",
 };
