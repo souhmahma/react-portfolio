@@ -4,7 +4,7 @@
       "id": "R_kgDOJWL0-g",
       "name": "react-portfolio",
       "createdAt": "2026-03-21",
-      "url": "https://github.com/shmahma/react-portfolio",
+      "url": "https://github.com/souhmahma/react-portfolio",
       "description": "A modern and responsive portfolio built with React, showcasing my projects, degrees, skills, and experiences",
       "isFork": false,
       "languages": [
@@ -18,7 +18,7 @@
       "id": "R_kgDOG_vYHA",
       "name": "discord-bot",
       "createdAt": "2023-08-27",
-      "url": "https://github.com/shmahma/discord-bot",
+      "url": "https://github.com/souhmahma/discord-bot",
       "description": "A Discord bot built with 16 commands to enhance server management and user interaction, providing moderation tools, utility features, and fun commands.",
       "isFork": false,
       "languages": [
@@ -32,7 +32,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "image-clustering",
       "createdAt": "2025-10-08",
-      "url": "https://github.com/shmahma/IMAGE_CLUST",
+      "url": "https://github.com/souhmahma/IMAGE_CLUST",
       "description": "This project performs image clustering on the CIFAR-10 dataset using deep learning embeddings and unsupervised learning.",
       "isFork": false,
       "languages": [
@@ -46,7 +46,7 @@
       "id": "R_kgDOG0_8uQ",
       "name": "linux-commands-c",
       "createdAt": "2023-08-27",
-      "url": "https://github.com/shmahma/linux-commands-c",
+      "url": "https://github.com/souhmahma/linux-commands-c",
       "description": "A Linux command-line project developed in C",
       "isFork": false,
       "languages": [
