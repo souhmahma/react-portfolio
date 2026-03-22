@@ -26,8 +26,8 @@ const greeting = {
     "Python Developer passionate about modern web applications and artificial intelligence. I design robust and scalable solutions combining performance, clean code, and intelligent data processing.",
   resumeLink:
     "https://drive.google.com/file/d/16wia-t7stoPE43VKSCXKZz5i_ayrXAdM/view?usp=sharing",
-  portfolio_repository: "https://github.com/shmahma/portfolio",
-  githubProfile: "https://github.com/shmahma",
+  portfolio_repository: "https://github.com/souhmahma/portfolio",
+  githubProfile: "https://github.com/souhmahma",
 };
 const socialMediaLinks = [
   /* Your Social Media Link */
@@ -41,7 +41,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/shmahma",
+    link: "https://github.com/souhmahma",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
