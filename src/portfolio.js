@@ -254,7 +254,7 @@ const certifications = {
       certificate_link:
         "https://coursera.org/share/8a7eefe76f4b56d2617b877bfc8b0f42",
       alt_name: "JIRA",
-      color_code: "#1fc1bc",
+      color_code: "#1f70c1",
     },
     {
       title: "IBM AI Professional Certificate",
