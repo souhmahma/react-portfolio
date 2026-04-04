@@ -9,7 +9,7 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
+          "name": "python",
           "iconifyClass": "logos-python"
         },
         {
