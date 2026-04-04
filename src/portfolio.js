@@ -375,7 +375,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "7 rue René Robert Cavelier de la salle",
+    subtitle: "7 rue René Robert Cavelier de la salle 91300 Massy",
     locality: "Massy",
     country: "France",
     region: "Essone",
