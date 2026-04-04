@@ -231,6 +231,32 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Meta Full Stack Developer: Front-End & Back-End from Scratch",
+      subtitle: "",
+      logo_path: "meta_logo.png",
+      certificate_link:
+        "https://coursera.org/share/3b5b43e01e383d8ba08337cbe051cbee",
+      alt_name: "META",
+      color_code: "#1fc1bc",
+    },
+    {
+      title: "Meta Back-End Developer",
+      subtitle: "",
+      logo_path: "meta_logo.png",
+      certificate_link:
+        "https://coursera.org/share/6f7cde054e1ee191205d547d14ffd7f5",
+      alt_name: "META",
+      color_code: "#1fc1bc",
+    },{
+      title: "Agile with Atlassian Jira",
+      subtitle: "",
+      logo_path: "jira_logo.png",
+      certificate_link:
+        "https://coursera.org/share/8a7eefe76f4b56d2617b877bfc8b0f42",
+      alt_name: "JIRA",
+      color_code: "#1fc1bc",
+    },
+    {
       title: "IBM AI Professional Certificate",
       subtitle: "",
       logo_path: "ibm_logo.png",
