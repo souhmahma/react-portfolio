@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "SouhailHmahma",
   nickname: "Full Stack Developer | Python & React | AI",
   subTitle:
-    "Python Developer passionate about modern web applications and artificial intelligence. I design robust and scalable solutions combining performance, clean code, and intelligent data processing.",
+    "Full Stack Developer passionate about modern web applications and artificial intelligence. I design robust and scalable solutions combining performance, clean code, and intelligent data processing.",
   resumeLink:
     "https://drive.google.com/file/d/16wia-t7stoPE43VKSCXKZz5i_ayrXAdM/view?usp=sharing",
   portfolio_repository: "https://github.com/souhmahma/portfolio",
