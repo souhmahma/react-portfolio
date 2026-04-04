@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Souhail Hmahma",
   logo_name: "SouhailHmahma",
-  nickname: "Python Developer",
+  nickname: "Full Stack Developer | Python & React | AI",
   subTitle:
     "Python Developer passionate about modern web applications and artificial intelligence. I design robust and scalable solutions combining performance, clean code, and intelligent data processing.",
   resumeLink:
