@@ -3,7 +3,7 @@
     {
       "id": "R_kgDOJWL3-g",
       "name": "roomie-match",
-      "createdAt": "2026-03-24",
+      "createdAt": "2026-04-08",
       "url": "https://github.com/souhmahma/roomie-match",
       "description": "A full-stack roomie-matching app using lifestyle algorithms to connect seekers and owners.",
       "isFork": false,
@@ -19,6 +19,10 @@
         {
           "name": "htmx",
           "iconifyClass": "logos-htmx"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "logos-tailwindcss"
         }
         
       ]
@@ -42,6 +46,10 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "logos-tailwindcss"
         }
         
       ]
@@ -57,23 +65,14 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "discord-bot",
-      "createdAt": "2023-08-27",
-      "url": "https://github.com/souhmahma/discord-bot",
-      "description": "A Discord bot built with 16 commands to enhance server management and user interaction, providing moderation tools, utility features, and fun commands.",
-      "isFork": false,
-      "languages": [
+        },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-nodejs"
+          "name": "Tailwind CSS",
+          "iconifyClass": "logos-tailwindcss"
         }
       ]
     },
+  
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "image-clustering",
@@ -85,20 +84,38 @@
         {
           "name": "python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "keras",
+          "iconifyClass": "logos-keras"
+        }
+      ]
+    },
+      {
+      "id": "R_kgDOG_vYHA",
+      "name": "https://github.com/souhmahma/CHURN",
+      "createdAt": "2023-14-08",
+      "url": "https://github.com/souhmahma/CHURN",
+      "description": "This project predicts whether a customer will churn (resign from a telecom service) ( Machine Learning )",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "linux-commands-c",
-      "createdAt": "2023-08-27",
-      "url": "https://github.com/souhmahma/linux-commands-c",
-      "description": "A Linux command-line project developed in C",
+      "name": "Littlelemon",
+      "createdAt": "2023-04-01",
+      "url": "https://github.com/souhmahma/littlelemon",
+      "description": "Django Rest Framework Coursera Project",
       "isFork": false,
       "languages": [
         {
-          "name": "c",
-          "iconifyClass": "logos-c"
+          "name": "Django",
+          "iconifyClass": "logos-django"
         }
       ]
     }   
