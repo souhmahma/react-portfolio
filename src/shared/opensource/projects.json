@@ -19,10 +19,6 @@
         {
           "name": "htmx",
           "iconifyClass": "logos-htmx"
-        },
-        {
-          "name": "Tailwind CSS",
-          "iconifyClass": "logos-tailwindcss"
         }
         
       ]
@@ -46,10 +42,6 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
-        },
-        {
-          "name": "Tailwind CSS",
-          "iconifyClass": "logos-tailwindcss"
         }
         
       ]
@@ -84,16 +76,12 @@
         {
           "name": "python",
           "iconifyClass": "logos-python"
-        },
-        {
-          "name": "keras",
-          "iconifyClass": "logos-keras"
         }
       ]
     },
       {
       "id": "R_kgDOG_vYHA",
-      "name": "https://github.com/souhmahma/CHURN",
+      "name": "CHURN",
       "createdAt": "2023-14-08",
       "url": "https://github.com/souhmahma/CHURN",
       "description": "This project predicts whether a customer will churn (resign from a telecom service) ( Machine Learning )",
@@ -113,6 +101,10 @@
       "description": "Django Rest Framework Coursera Project",
       "isFork": false,
       "languages": [
+        {
+          "name": "python",
+          "iconifyClass": "logos-python"
+        },
         {
           "name": "Django",
           "iconifyClass": "logos-django"
