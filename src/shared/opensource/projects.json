@@ -1,9 +1,32 @@
 {
   "data": [
     {
+      "id": "R_kgDOJWL9-g",
+      "name": "ai-resume-analyzer",
+      "createdAt": "2026-04-08",
+      "url": "https://github.com/souhmahma/ai-resume-analyzer",
+      "description": "AI-powered resume analyzer using Gemini. Get scores, tips, and cover letters in seconds.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "logos-react"
+        }
+        
+      ]
+    },
+    {
       "id": "R_kgDOJWL3-g",
       "name": "roomie-match",
-      "createdAt": "2026-04-08",
+      "createdAt": "2026-03-30",
       "url": "https://github.com/souhmahma/roomie-match",
       "description": "A full-stack roomie-matching app using lifestyle algorithms to connect seekers and owners.",
       "isFork": false,
