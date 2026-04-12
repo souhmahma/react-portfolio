@@ -102,20 +102,6 @@
         }
       ]
     },
-      {
-      "id": "R_kgDOG_vYHA",
-      "name": "CHURN",
-      "createdAt": "2023-14-08",
-      "url": "https://github.com/souhmahma/CHURN",
-      "description": "This project predicts whether a customer will churn (resign from a telecom service) ( Machine Learning )",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
     {
       "id": "R_kgDOG0_8uQ",
       "name": "Littlelemon",
