@@ -57,9 +57,10 @@ const skills = {
       title: "Python & Backend Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building robust and scalable REST APIs using FastAPI, Django, and Flask",
-        "⚡ Designing secure backend architectures (authentication, authorization, access control)",
-        "⚡ Database management and API integration",
+        "⚡ Building robust and scalable REST APIs using Django, FastAPI, and Flask",
+        "⚡ Implementing secure Authentication & Authorization (JWT, OAuth2, Knox)",
+        "⚡ Designing secure backend architectures and cloud-ready infrastructures",
+        "⚡ Database management, performance optimization, and API integration",
       ],
       softwareSkills: [
         {
