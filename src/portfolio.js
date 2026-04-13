@@ -315,7 +315,7 @@ const experience = {
           logo_path: "cea_logo.png",
           duration: "March 2025 - September 2025",
           location: "Paris",
-          description: "Built a Python FastAPI REST service for resource management and file sharing, implementing secure backend logic, integrating a deep learning model for abuse detection, with deployment, testing, and endpoint documentation using Python, FastAPI, pytest, JavaScript, Deep Learning, and Docker.",
+          description: "Built a Python Django REST Framework service for resource management and file sharing, implementing secure backend logic, integrating a deep learning model for abuse detection, with deployment, testing, and endpoint documentation using Python, FastAPI, pytest, JavaScript, Deep Learning, and Docker.",
           color: "#000000",
         },
         {
