@@ -315,7 +315,7 @@ const experience = {
           logo_path: "cea_logo.png",
           duration: "March 2025 - September 2025",
           location: "Paris",
-          description: "Built a Python Django REST Framework service for resource management and file sharing, implementing secure backend logic, integrating a deep learning model for abuse detection, with deployment, testing, and endpoint documentation using Python, FastAPI, pytest, JavaScript, Deep Learning, and Docker.",
+          description: "Built a REST Api for resource management and file sharing, implementing secure backend logic, integrating a deep learning model for abuse detection, with deployment, testing, and endpoint documentation using Python, FastAPI, Pydantic, pytest, JavaScript, Deep Learning, and Docker.",
           color: "#000000",
         },
         {
@@ -325,7 +325,7 @@ const experience = {
           logo_path: "logigroup.png",
           duration: "April 2024 - August 2024",
           location: "Paris",
-          description: "Enhanced company web platform with React, Tailwind CSS, Python, Django, LLM, and GCP, integrating APIs, automating CV data extraction, and deploying cloud-tested solutions.",
+          description: "Enhanced company web platform with React, Tailwind CSS, Python, Django, DRF, LLM, and GCP, integrating APIs, automating CV data extraction, and deploying cloud-tested solutions.",
           color: "#0879bf",
         },
         {
