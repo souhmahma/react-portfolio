@@ -124,25 +124,6 @@
           "iconifyClass": "logos-python"
         }
       ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "Littlelemon",
-      "createdAt": "2023-04-01",
-      "url": "https://github.com/souhmahma/littlelemon",
-      "description": "Django Rest Framework Coursera Project",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Django",
-          "iconifyClass": "logos-django"
-        }
-      ]
-    }   
-    
+    }
   ]
 }
