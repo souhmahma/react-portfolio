@@ -1,6 +1,29 @@
 {
   "data": [
     {
+      "id": "R_kgDOJWX8-g",
+      "name": "autoagent-api",
+      "createdAt": "2026-04-16",
+      "url": "https://github.com/souhmahma/autoagent-api",
+      "description": "AutoAgent-API is an autonomous AI agent platform based on the ReAct (Reasoning + Acting) pattern.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "FastApi",
+          "iconifyClass": "logos-fastapi"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "logos-react"
+        }
+        
+      ]
+    },
+    {
       "id": "R_kgDOJWL9-g",
       "name": "ai-resume-analyzer",
       "createdAt": "2026-04-08",
