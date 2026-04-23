@@ -112,17 +112,26 @@
     },
   
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "image-clustering",
-      "createdAt": "2025-10-08",
-      "url": "https://github.com/souhmahma/IMAGE_CLUST",
-      "description": "This project performs image clustering on the CIFAR-10 dataset using deep learning embeddings and unsupervised learning.",
+      "id": "R_kgDOJWX8-g",
+      "name": "vision-ai",
+      "createdAt": "2026-04-23",
+      "url": "https://github.com/souhmahma/vision-ai",
+      "description": "Mobile app: AI-powered image analysis app built using React Native and FastApi",
       "isFork": false,
       "languages": [
         {
           "name": "python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "FastApi",
+          "iconifyClass": "logos-fastapi"
+        },
+        {
+          "name": "react",
+          "iconifyClass": "logos-react"
         }
+        
       ]
     }
   ]
