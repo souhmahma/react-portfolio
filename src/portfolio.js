@@ -1,6 +1,3 @@
-
-
-// Website related settings
 const settings = {
   isSplash: false, 
 };
@@ -26,7 +23,7 @@ const greeting = {
     "Full Stack Developer passionate about modern web applications and artificial intelligence. I design robust and scalable solutions combining performance, clean code, and intelligent data processing.",
   resumeLink:
     "https://drive.google.com/file/d/16wia-t7stoPE43VKSCXKZz5i_ayrXAdM/view?usp=sharing",
-  portfolio_repository: "https://github.com/souhmahma/portfolio",
+  portfolio_repository: "https://github.com/souhmahma/react-portfolio",
   githubProfile: "https://github.com/souhmahma",
 };
 const socialMediaLinks = [
