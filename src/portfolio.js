@@ -162,9 +162,21 @@ const skills = {
           style: { color: "#2496ED" },
         },
         {
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
+          style: { 
+            color: "#326CE5" 
+          },
+        },
+        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: { color: "#FF9900" },
+        },
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:googlecloud",
+          style: { color: "#4285F4" },
         },
         {
           skillName: "GitHub",
@@ -172,11 +184,6 @@ const skills = {
           style: { 
             color: "#181717" 
           },
-        },
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: { color: "#4285F4" },
         },
         {
           skillName: "Jenkins",
