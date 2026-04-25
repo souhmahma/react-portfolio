@@ -129,6 +129,16 @@ const skills = {
           fontAwesomeClassname: "simple-icons:css3",
           style: { color: "#1572B6" },
         },
+        {
+          skillName: "TailwindCSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: { color: "#38B2AC" },
+        },
+        {
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: { color: "#7952B3" },
+        },
       ],
     },
     {
