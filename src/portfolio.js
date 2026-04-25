@@ -167,6 +167,13 @@ const skills = {
           style: { color: "#FF9900" },
         },
         {
+          skillName: "GitHub",
+          fontAwesomeClassname: "simple-icons:github",
+          style: { 
+            color: "#181717" 
+          },
+        },
+        {
           skillName: "GCP",
           fontAwesomeClassname: "simple-icons:googlecloud",
           style: { color: "#4285F4" },
@@ -187,6 +194,16 @@ const skills = {
         "⚡ Implementing secure coding practices and data protection",
       ],
       softwareSkills: [
+        {
+          skillName: "JWT",
+          fontAwesomeClassname: "simple-icons:jsonwebtokens",
+          style: { color: "#000000" },
+        },
+        {
+          skillName: "OAuth",
+          fontAwesomeClassname: "simple-icons:oauth",
+          style: { color: "#EB5424" },
+        },
         {
           skillName: "Linux",
           fontAwesomeClassname: "simple-icons:linux",
