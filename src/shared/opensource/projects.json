@@ -94,19 +94,23 @@
     },
     {
       "id": "R_kgDOJWL0-g",
-      "name": "react-portfolio",
+      "name": "api-explorer",
       "createdAt": "2026-03-21",
-      "url": "https://github.com/souhmahma/react-portfolio",
-      "description": "A modern and responsive portfolio built with React, showcasing my projects, degrees, skills, and experiences",
+      "url": "https://github.com/souhmahma/api-explorer",
+      "description": "A lightweight Postman alternative built in the browser with auto-discovery.",
       "isFork": false,
       "languages": [
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "Tailwind CSS",
-          "iconifyClass": "logos-tailwindcss"
+          "name": "FastApi",
+          "iconifyClass": "logos-fastapi"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
         }
       ]
     },
