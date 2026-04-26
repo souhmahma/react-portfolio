@@ -80,14 +80,6 @@ class Contact extends Component {
                 >
                   {phoneSection["subtitle"]}
                 </p>
-                <div className="address-btn-div">
-                  <Button
-                    text="Visit on Google Maps"
-                    newTab={true}
-                    href={addressSection.location_map_link}
-                    theme={theme}
-                  />
-                </div>
               </div>
             </div>
           </Fade>
