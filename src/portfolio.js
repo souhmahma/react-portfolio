@@ -424,7 +424,6 @@ const contactPageData = {
     postalCode: "91300",
     streetAddress: "",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/Ueb7Q6ys5L4h7vBs6",
   },
   phoneSection: {
     title: "Phone",
