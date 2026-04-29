@@ -357,13 +357,13 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Backend & AI Developer (Python)",
+          title: "FullStack & AI Developer (Python / React)",
           company: "CEA LIST",
           company_url: "https://list.cea.fr/en/",
           logo_path: "cea_logo.png",
           duration: "March 2025 - September 2025",
           location: "Paris",
-          description: "Built a REST Api for resource management and file sharing, implementing secure backend logic, integrating a deep learning model for abuse detection, with deployment, testing, and endpoint documentation using Python, FastAPI, Pydantic, pytest, JavaScript, Deep Learning, and Docker.",
+          description: "Built a REST Api for resource management and file sharing, implementing secure backend logic, integrating a deep learning model for abuse detection, with deployment, testing, and endpoint documentation using Python, FastAPI, Pydantic, pytest, React, Deep Learning, and Docker.",
           color: "#000000",
         },
         {
