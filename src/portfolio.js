@@ -112,6 +112,13 @@ const skills = {
           style: { color: "#61DAFB" },
         },
         {
+          skillName: "Next.js",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+          style: { 
+            color: "#000000" 
+          },
+        },
+        {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
           style: {
