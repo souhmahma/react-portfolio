@@ -127,6 +127,14 @@ const skills = {
           },
         },
         {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
+          style: {
+            backgroundColor: "#007ACC",
+            color: "#FFFFFF",
+          },
+        },
+        {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
           style: { color: "#E34F26" },
