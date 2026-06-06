@@ -365,7 +365,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "FullStack & AI Developer (Python / React)",
+          title: "FullStack & AI Engineer (FastApi / React)",
           company: "CEA LIST",
           company_url: "https://list.cea.fr/en/",
           logo_path: "cea_logo.png",
@@ -375,7 +375,7 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Full Stack Developer (Python / React)",
+          title: "Full Stack Engineer (Django / React)",
           company: "LOGIGROUP",
           company_url: "https://www.logigroup.com/en-fr",
           logo_path: "logigroup.png",
